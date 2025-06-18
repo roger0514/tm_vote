@@ -1,0 +1,22 @@
+{
+    "project_info": {
+        "project_id": "chief-vote",
+        "project_number": "1234567890",
+        "name": "ChiefVote"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:600118217364:web:a7e850cd9a89ca3c78c281",
+                "android_client_info": {
+                    "package_name": "com.yourcompany.tmvote"
+                }
+            },
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCYQqklTXjqAVZDp2QWYHpIAh16ys5wkJQ"
+                }
+            ]
+        }
+    ]
+}
